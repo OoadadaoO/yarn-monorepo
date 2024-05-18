@@ -174,7 +174,7 @@ yarn <new-package-name> build
 yarn <new-package-name> start
 ```
 
-Customize the your yarn script in `./packages/<new-package-name>/package.json` as needed.
+Customize your yarn script in `./packages/<new-package-name>/package.json` as needed.
 
 ## License
 
